@@ -1,0 +1,10 @@
+If you want to compile this fix on your own, you
+will need to have AutoIt v3.3.8.1 installed.
+
+It is the language I used to make this and without
+it, you won't be able to compile.
+
+Simply open the source code in the AutoIt IDE and
+press F7 to compile.
+
+~ CoffeeCone

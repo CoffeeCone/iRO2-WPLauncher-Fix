@@ -11,5 +11,7 @@ So here's the fix I came up with.
 You can download the v1.0 at:
 http://www.mediafire.com/?qa4npqfsd64u492
 
+If you want to compile it yourself, see COMPILE.txt.
+
 Hope this helps some!
 ~ CoffeeCone
